@@ -11,7 +11,7 @@ const allSongs = [
     title: "kalimba",
     artist: "Mr. Scruff",
     duration: "5:48",
-    src: "musics/kalimba.mp3",
+    src: "musics/Kalimba.mp3",
   },
   {
     id: 1,
