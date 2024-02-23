@@ -301,7 +301,7 @@
       margin-left: 4px;
     }
     .playlist-song {
-      gap: 6px;
+      justify-content: space-between;
     }
   
     .playlist-song-title {
